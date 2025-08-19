@@ -1,0 +1,880 @@
+{
+  "blouse": [
+    {
+      "id": 1,
+      "title": "Pink Readymade Blouse",
+      "subtitle": "Readymade Blouse",
+      "price": 399,
+      "oldPrice": 500,
+      "save": "Save 20%",
+      "thumbnails": ["Img0724", "Img0725", "Img0730"],
+      "points": [
+        "Available in sizes S to XXL",
+        "Cash on delivery not available for customized blouses"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Semi Stitched",
+      "customizeNote": "Customization available with a ₹300 advance payment"
+    },
+    {
+      "id": 2,
+      "title": "Red Readymade Blouse",
+      "subtitle": "Readymade Blouse",
+      "price": 499,
+      "oldPrice": 599,
+      "save": "Save 17%",
+      "thumbnails": ["Img0734", "Img0735"],
+      "points": [
+        "Available in sizes S to XXL",
+        "Perfect fit and premium quality"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Fully Stitched",
+      "customizeNote": "Customization available with a ₹300 advance payment"
+    },
+    {
+      "id": 3,
+      "title": "Elegant Blouse Design",
+      "subtitle": "Designer Blouse",
+      "price": 549,
+      "oldPrice": 649,
+      "save": "Save 15%",
+      "thumbnails": ["Img0738", "Img0739"],
+      "points": [
+        "Designer blouse with stylish cuts",
+        "Ideal for festive and traditional wear"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Semi Stitched",
+      "customizeNote": "Available only on prepaid orders"
+    },
+    {
+      "id": 4,
+      "title": "Silk Embroidered Blouse",
+      "subtitle": "Silk Blouse",
+      "price": 599,
+      "oldPrice": 799,
+      "save": "Save 25%",
+      "thumbnails": ["Img0742", "Img0744"],
+      "points": [
+        "Rich silk fabric with embroidery",
+        "Perfect for weddings & functions"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Fully Stitched",
+      "customizeNote": "Customization available with advance payment"
+    },
+    {
+      "id": 5,
+      "title": "Cotton Daily Wear Blouse",
+      "subtitle": "Cotton Blouse",
+      "price": 399,
+      "oldPrice": 499,
+      "save": "Save 20%",
+      "thumbnails": ["Img0747", "Img0749"],
+      "points": [
+        "Comfortable and breathable cotton",
+        "Best for everyday wear"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Semi Stitched",
+      "customizeNote": "COD available for select pin codes"
+    },
+    {
+      "id": 6,
+      "title": "Mirror Work Blouse",
+      "subtitle": "Partywear Blouse",
+      "price": 649,
+      "oldPrice": 799,
+      "save": "Save 19%",
+      "thumbnails": ["Img0752", "Img0753"],
+      "points": [
+        "Trendy mirror work",
+        "Best match for lehengas"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Fully Stitched",
+      "customizeNote": "Advance customization not available"
+    },
+    {
+      "id": 7,
+      "title": "Traditional Zari Blouse",
+      "subtitle": "Traditional Blouse",
+      "price": 499,
+      "oldPrice": 649,
+      "save": "Save 23%",
+      "thumbnails": ["Img0755", "Img0758"],
+      "points": [
+        "Zari and threadwork combo",
+        "Looks elegant on silk sarees"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Semi Stitched",
+      "customizeNote": "Customization extra ₹250"
+    },
+    {
+      "id": 8,
+      "title": "Sleeveless Blouse",
+      "subtitle": "Modern Blouse",
+      "price": 349,
+      "oldPrice": 450,
+      "save": "Save 22%",
+      "thumbnails": ["Img0759", "Img0760"],
+      "points": [
+        "Cool and stylish for summer",
+        "Matches georgette and chiffon sarees"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Fully Stitched",
+      "customizeNote": "No customization available"
+    },
+    {
+      "id": 9,
+      "title": "Velvet Blouse",
+      "subtitle": "Luxury Blouse",
+      "price": 799,
+      "oldPrice": 999,
+      "save": "Save 20%",
+      "thumbnails": ["Img0762", "Img0763"],
+      "points": [
+        "Soft velvet material",
+        "Ideal for grand occasions"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Semi Stitched",
+      "customizeNote": "Only prepaid custom orders allowed"
+    },
+    {
+      "id": 10,
+      "title": "Green Readymade Blouse",
+      "subtitle": "Readymade Blouse",
+      "price": 449,
+      "oldPrice": 550,
+      "save": "Save 18%",
+      "thumbnails": ["Img0765", "Img0767"],
+      "points": [
+        "Available in sizes S to XXL",
+        "Cash on delivery not available for customized blouses"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Semi Stitched",
+      "customizeNote": "Customization available with a ₹300 advance payment"
+    }
+  ],
+  "cottonSaree": [
+    {
+      "id": 11,
+      "title": "Soft Cotton Saree",
+      "subtitle": "Cotton Saree",
+      "price": 799,
+      "oldPrice": 999,
+      "save": "Save 20%",
+      "thumbnails": ["Img1127", "Img1128", "Img1129"],
+      "points": [
+        "Soft breathable cotton material",
+        "Perfect for daily and office wear"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse piece included. No customization required"
+    },
+    {
+      "id": 12,
+      "title": "Elegant Cotton Saree",
+      "subtitle": "Cotton Saree",
+      "price": 899,
+      "oldPrice": 1099,
+      "save": "Save 18%",
+      "thumbnails": ["Img1130", "Img1131", "Img1133"],
+      "points": [
+        "Lightweight and breathable fabric",
+        "Perfect for daily wear and small functions"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse piece included"
+    },
+    {
+      "id": 13,
+      "title": "Sky Blue Cotton Saree",
+      "subtitle": "Cotton Saree",
+      "price": 999,
+      "oldPrice": 1199,
+      "save": "Save 17%",
+      "thumbnails": ["Img1134", "Img1135", "Img1136"],
+      "points": [
+        "Soft handloom cotton",
+        "Gives a rich ethnic look"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Comes with matching blouse piece"
+    },
+    {
+      "id": 14,
+      "title": "Classic Grey Cotton Saree",
+      "subtitle": "Cotton Saree",
+      "price": 799,
+      "oldPrice": 999,
+      "save": "Save 20%",
+      "thumbnails": ["Img1137", "Img1138", "Img1139"],
+      "points": [
+        "Durable, machine-washable cotton",
+        "Comfortable for office and travel"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse piece provided separately"
+    },
+    {
+      "id": 15,
+      "title": "Peach Soft Cotton Saree",
+      "subtitle": "Cotton Saree",
+      "price": 899,
+      "oldPrice": 1099,
+      "save": "Save 18%",
+      "thumbnails": ["Img1140", "Img1141", "Img1142"],
+      "points": [
+        "Subtle color and soft weave",
+        "Ideal for casual and traditional outings"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse piece included"
+    },
+    {
+      "id": 16,
+      "title": "Green Cotton Saree with Border",
+      "subtitle": "Cotton Saree",
+      "price": 949,
+      "oldPrice": 1149,
+      "save": "Save 17%",
+      "thumbnails": ["Img1143", "Img1144"],
+      "points": [
+        "Elegant golden zari border",
+        "Festive-ready comfort saree"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse piece attached"
+    },
+    {
+      "id": 17,
+      "title": "Purple Casual Cotton Saree",
+      "subtitle": "Cotton Saree",
+      "price": 849,
+      "oldPrice": 1049,
+      "save": "Save 19%",
+      "thumbnails": ["Img1145", "Img1146", "Img1147"],
+      "points": [
+        "Perfect for daily college wear",
+        "Soft and easy to drape"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse piece available"
+    },
+    {
+      "id": 18,
+      "title": "Black Border Cotton Saree",
+      "subtitle": "Cotton Saree",
+      "price": 799,
+      "oldPrice": 999,
+      "save": "Save 20%",
+      "thumbnails": ["Img1148", "Img1149", "Img1150"],
+      "points": [
+        "Rich contrast border design",
+        "Elegant choice for evenings"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Comes with blouse fabric"
+    },
+    {
+      "id": 19,
+      "title": "Dual Tone Cotton Saree",
+      "subtitle": "Cotton Saree",
+      "price": 899,
+      "oldPrice": 1099,
+      "save": "Save 18%",
+      "thumbnails": ["Img1151", "Img1152", "Img1153"],
+      "points": [
+        "Two-tone effect with a modern look",
+        "Best for light celebrations"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse piece attached"
+    },
+    {
+      "id": 20,
+      "title": "Handloom Soft Cotton Saree",
+      "subtitle": "Cotton Saree",
+      "price": 999,
+      "oldPrice": 1199,
+      "save": "Save 17%",
+      "thumbnails": ["Img1154", "Img1155", "Img1156"],
+      "points": [
+        "Premium handloom quality",
+        "Traditional yet stylish"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    }
+  ],
+  "silksaree": [
+    {
+      "id": 21,
+      "title": "Luxurious Silk Saree",
+      "subtitle": "Silk Saree",
+      "price": 2500,
+      "oldPrice": 3000,
+      "save": "Save 17%",
+      "thumbnails": ["Img1221", "Img1222", "Img1223"],
+      "points": [
+        "Rich texture and elegant drape",
+        "Ideal for grand occasions and weddings"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    },
+    {
+      "id": 22,
+      "title": "Traditional Kanchipuram Silk",
+      "subtitle": "Silk Saree",
+      "price": 4500,
+      "oldPrice": 5500,
+      "save": "Save 18%",
+      "thumbnails": ["Img1224", "Img1225"],
+      "points": [
+        "Authentic Kanchipuram weave",
+        "A timeless masterpiece"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    },
+    {
+      "id": 23,
+      "title": "Embroidered Art Silk Saree",
+      "subtitle": "Silk Saree",
+      "price": 1800,
+      "oldPrice": 2200,
+      "save": "Save 18%",
+      "thumbnails": ["Img1226", "Img1227", "Img1228"],
+      "points": [
+        "Intricate embroidery on art silk",
+        "Lightweight yet opulent"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    },
+    {
+      "id": 24,
+      "title": "Contemporary Silk Blend Saree",
+      "subtitle": "Silk Saree",
+      "price": 2100,
+      "oldPrice": 2500,
+      "save": "Save 16%",
+      "thumbnails": ["Img1229", "Img1230", "Img1231"],
+      "points": [
+        "Modern patterns with silk blend comfort",
+        "Suitable for various events"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    },
+    {
+      "id": 25,
+      "title": "Plain Silk Saree with Zari Border",
+      "subtitle": "Silk Saree",
+      "price": 2800,
+      "oldPrice": 3300,
+      "save": "Save 15%",
+      "thumbnails": ["Img1232", "Img1233", "Img1234"],
+      "points": [
+        "Classic plain body with rich zari border",
+        "Exudes understated elegance"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    },
+    {
+      "id": 26,
+      "title": "Rich Brocade Silk Saree",
+      "subtitle": "Silk Saree",
+      "price": 3800,
+      "oldPrice": 4500,
+      "save": "Save 16%",
+      "thumbnails": ["Img1235", "Img1236", "Img1237"],
+      "points": [
+        "Heavy brocade weaving for a grand look",
+        "Perfect for weddings and festivals"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    },
+    {
+      "id": 27,
+      "title": "Printed Pure Silk Saree",
+      "subtitle": "Silk Saree",
+      "price": 3200,
+      "oldPrice": 3800,
+      "save": "Save 16%",
+      "thumbnails": ["Img1238", "Img1239", "Img1240"],
+      "points": [
+        "Vibrant prints on pure silk",
+        "Comfortable for long hours"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    },
+    {
+      "id": 28,
+      "title": "Art Silk Saree with Paisley Motifs",
+      "subtitle": "Silk Saree",
+      "price": 1600,
+      "oldPrice": 1900,
+      "save": "Save 16%",
+      "thumbnails": ["Img1241", "Img1242", "Img1243"],
+      "points": [
+        "Beautiful paisley designs",
+        "Great for semi-formal gatherings"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    },
+    {
+      "id": 29,
+      "title": "Designer Silk Saree",
+      "subtitle": "Silk Saree",
+      "price": 4000,
+      "oldPrice": 4800,
+      "save": "Save 17%",
+      "thumbnails": ["Img1244", "Img1245", "Img1246"],
+      "points": [
+        "Exclusive designer piece",
+        "A statement of luxury"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    },
+    {
+      "id": 30,
+      "title": "Handwoven Silk Saree",
+      "subtitle": "Silk Saree",
+      "price": 5000,
+      "oldPrice": 6000,
+      "save": "Save 17%",
+      "thumbnails": ["Img1248", "Img1249", "Img1247"],
+      "points": [
+        "Rich traditional weaving techniques",
+        "A timeless addition to your wardrobe"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse fabric"
+    }
+  ],
+  "mysoreSilk": [
+    {
+    "id": 31,
+    "title": "Floral Printed Cotton Saree",
+    "subtitle": "Cotton Saree",
+    "price": 1199,
+    "oldPrice": 1399,
+    "save": "Save 14%",
+    "thumbnails": ["Img1255", "Img1256", "Img1257", "Img1258"],
+    "points": [
+      "Beautiful floral patterns",
+      "Lightweight and breathable material"
+    ],
+    "delivery": "Jul 13 – Jul 17",
+    "status": "Unstitched",
+    "customizeNote": "Blouse piece attached inside"
+  },
+  {
+    "id": 32,
+    "title": "Block Print Cotton Saree",
+    "subtitle": "Cotton Saree",
+    "price": 999,
+    "oldPrice": 1250,
+    "save": "Save 20%",
+    "thumbnails": ["Img1259", "Img1260", "Img1261"],
+    "points": [
+      "Hand-block printed designs",
+      "Ideal for casual & office wear"
+    ],
+    "delivery": "Jul 13 – Jul 17",
+    "status": "Unstitched",
+    "customizeNote": "Matching blouse fabric included"
+  },
+  {
+    "id": 33,
+    "title": "Ikkat Style Cotton Saree",
+    "subtitle": "Cotton Saree",
+    "price": 1399,
+    "oldPrice": 1599,
+    "save": "Save 13%",
+    "thumbnails": ["Img1262", "Img1263", "Img1264"],
+    "points": [
+      "Inspired by traditional Ikkat patterns",
+      "Soft and durable cotton fabric"
+    ],
+    "delivery": "Jul 13 – Jul 17",
+    "status": "Unstitched",
+    "customizeNote": "Pre-attached blouse piece"
+  },
+  {
+    "id": 34,
+    "title": "Pastel Cotton Saree",
+    "subtitle": "Cotton Saree",
+    "price": 1299,
+    "oldPrice": 1499,
+    "save": "Save 13%",
+    "thumbnails": ["Img1265", "Img1266", "Img1267"],
+    "points": [
+      "Trendy pastel shades",
+      "Comfortable for all-day wear"
+    ],
+    "delivery": "Jul 13 – Jul 17",
+    "status": "Unstitched",
+    "customizeNote": "Blouse fabric included inside"
+  },
+  {
+    "id": 35,
+    "title": "Daily Wear Cotton Saree",
+    "subtitle": "Cotton Saree",
+    "price": 899,
+    "oldPrice": 1100,
+    "save": "Save 18%",
+    "thumbnails": ["Img1268", "Img1269", "Img1270"],
+    "points": [
+      "Best suited for everyday use",
+      "Soft and skin-friendly texture"
+    ],
+    "delivery": "Jul 13 – Jul 17",
+    "status": "Unstitched",
+    "customizeNote": "Comes with blouse material"
+  },
+  {
+    "id": 36,
+    "title": "Geometric Print Cotton Saree",
+    "subtitle": "Cotton Saree",
+    "price": 1099,
+    "oldPrice": 1299,
+    "save": "Save 15%",
+    "thumbnails": ["Img1271", "Img1272", "Img1273"],
+    "points": [
+      "Modern geometric designs",
+      "Perfect blend of style and comfort"
+    ],
+    "delivery": "Jul 13 – Jul 17",
+    "status": "Unstitched",
+    "customizeNote": "Includes coordinated blouse fabric"
+  },
+  {
+    "id": 37,
+    "title": "Elegant Border Cotton Saree",
+    "subtitle": "Cotton Saree",
+    "price": 1349,
+    "oldPrice": 1550,
+    "save": "Save 13%",
+    "thumbnails": ["Img1274", "Img1275", "Img1276"],
+    "points": [
+      "Detailed border design",
+      "Ideal for festive & casual occasions"
+    ],
+    "delivery": "Jul 13 – Jul 17",
+    "status": "Unstitched",
+    "customizeNote": "Blouse piece inside the saree"
+  },
+  {
+    "id": 38,
+    "title": "Soft Mul Cotton Saree",
+    "subtitle": "Cotton Saree",
+    "price": 999,
+    "oldPrice": 1199,
+    "save": "Save 17%",
+    "thumbnails": ["Img1277", "Img1278", "Img1279"],
+    "points": [
+      "Feather-soft mul cotton material",
+      "Great for warm weather"
+    ],
+    "delivery": "Jul 13 – Jul 17",
+    "status": "Unstitched",
+    "customizeNote": "Includes soft cotton blouse piece"
+  },
+  {
+    "id": 39,
+    "title": "Temple Border Cotton Saree",
+    "subtitle": "Cotton Saree",
+    "price": 1449,
+    "oldPrice": 1700,
+    "save": "Save 15%",
+    "thumbnails": ["Img1280", "Img1281", "Img1282"],
+    "points": [
+      "Classic temple border look",
+      "Perfect traditional styling"
+    ],
+    "delivery": "Jul 13 – Jul 17",
+    "status": "Unstitched",
+    "customizeNote": "Includes matching blouse material"
+  }
+  ],
+   "combosaree": [
+    {
+      "id": 41,
+      "title": "Elegant Dual Combo Saree Pack",
+      "subtitle": "Saree Combo Offer",
+      "price": 1999,
+      "oldPrice": 2599,
+      "save": "Save 23%",
+      "thumbnails": ["Img1250", "Img1250"],
+      "points": [
+        "Includes 2 soft cotton sarees in vibrant colors",
+        "Ideal for gifting and daily wear"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse fabric included for both sarees"
+    },
+    {
+      "id": 42,
+      "title": "Festive Wear Combo Sarees",
+      "subtitle": "Saree Combo Offer",
+      "price": 2299,
+      "oldPrice": 2899,
+      "save": "Save 21%",
+      "thumbnails": ["Img1251", "Img1251"],
+      "points": [
+        "Traditional designs suitable for festivals",
+        "Comes with matching blouse pieces"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Both sarees have attached blouse fabric"
+    },
+    {
+      "id": 43,
+      "title": "Daily Comfort Combo Saree Pack",
+      "subtitle": "Saree Combo Offer",
+      "price": 1899,
+      "oldPrice": 2399,
+      "save": "Save 21%",
+      "thumbnails": ["Img1252", "Img1252"],
+      "points": [
+        "2 lightweight sarees perfect for everyday use",
+        "Comfortable for long hours of wear"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes blouse pieces for both"
+    },
+    {
+      "id": 44,
+      "title": "Printed Combo Saree Set",
+      "subtitle": "Saree Combo Offer",
+      "price": 2099,
+      "oldPrice": 2599,
+      "save": "Save 19%",
+      "thumbnails": ["Img1253", "Img1253"],
+      "points": [
+        "Beautiful block prints on both sarees",
+        "Soft cotton fabric ideal for summer"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse material available with each saree"
+    },
+    {
+      "id": 45,
+      "title": "Trendy Combo Sarees for Women",
+      "subtitle": "Saree Combo Offer",
+      "price": 2399,
+      "oldPrice": 2899,
+      "save": "Save 17%",
+      "thumbnails": ["Img1254", "Img1254"],
+      "points": [
+        "Trendy colors and minimal design",
+        "Versatile use – casual or semi-formal"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Matching blouse pieces included"
+    }
+  ],
+  
+  "Kurtipant": [
+    {
+      "id": 46,
+      "title": "Elegant Combo Cotton Sarees",
+      "subtitle": "Saree Combo Offer",
+      "price": 2199,
+      "oldPrice": 2699,
+      "save": "Save 19%",
+      "thumbnails": ["Maxi1", "Maxi1"],
+      "points": [
+        "Perfect dailywear cotton comfort",
+        "Combo includes 2 soft cotton sarees"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse pieces included in each saree"
+    },
+    {
+      "id": 47,
+      "title": "Trendy Printed Combo Sarees",
+      "subtitle": "Saree Combo Offer",
+      "price": 1999,
+      "oldPrice": 2499,
+      "save": "Save 20%",
+      "thumbnails": ["Maxi2", "Maxi2"],
+      "points": [
+        "Trendy floral & ethnic prints",
+        "Combo of 2 stylish printed sarees"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes matching blouse materials"
+    },
+    {
+      "id": 48,
+      "title": "Festive Wear Saree Combo Pack",
+      "subtitle": "Saree Combo Offer",
+      "price": 2699,
+      "oldPrice": 3199,
+      "save": "Save 16%",
+      "thumbnails": ["Maxi3", "Maxi3"],
+      "points": [
+        "Vibrant festive colors",
+        "Ideal for special occasions & functions"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Exclusive designs with blouse pieces"
+    },
+    {
+      "id": 49,
+      "title": "Workwear Combo Sarees Set",
+      "subtitle": "Saree Combo Offer",
+      "price": 1899,
+      "oldPrice": 2299,
+      "save": "Save 17%",
+      "thumbnails": ["Maxi4", "Maxi4"],
+      "points": [
+        "Soft feel suitable for all-day use",
+        "Combo includes 2 everyday use sarees"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse fabrics attached inside"
+    },
+    {
+      "id": 50,
+      "title": "Elegant Linen Saree Combo",
+      "subtitle": "Saree Combo Offer",
+      "price": 2499,
+      "oldPrice": 2999,
+      "save": "Save 17%",
+      "thumbnails": ["Maxi5", "Maxi5"],
+      "points": [
+        "Luxurious linen finish",
+        "Combo of 2 rich textured sarees"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse materials included with both"
+    },
+    {
+      "id": 51,
+      "title": "Floral Designer Saree Combo",
+      "subtitle": "Saree Combo Offer",
+      "price": 2299,
+      "oldPrice": 2899,
+      "save": "Save 21%",
+      "thumbnails": ["Maxi6", "Maxi6"],
+      "points": [
+        "Graceful floral designs",
+        "Combo of 2 elegant partywear sarees"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Matching blouse pieces included"
+    },
+    {
+      "id": 52,
+      "title": "Printed Lightweight Combo Sarees",
+      "subtitle": "Saree Combo Offer",
+      "price": 2099,
+      "oldPrice": 2599,
+      "save": "Save 19%",
+      "thumbnails": ["Maxi7", "Maxi7"],
+      "points": [
+        "Easy to carry and drape",
+        "2 sarees perfect for summer outings"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse attached with both"
+    },
+    {
+      "id": 53,
+      "title": "Silk Blend Combo Sarees Set",
+      "subtitle": "Saree Combo Offer",
+      "price": 2799,
+      "oldPrice": 3399,
+      "save": "Save 18%",
+      "thumbnails": ["Maxi8", "Maxi8"],
+      "points": [
+        "Silk finish with rich texture",
+        "2 attractive sarees for celebrations"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Contrast blouse fabric included"
+    },
+    {
+      "id": 54,
+      "title": "Minimal Printed Saree Combos",
+      "subtitle": "Saree Combo Offer",
+      "price": 1999,
+      "oldPrice": 2399,
+      "save": "Save 17%",
+      "thumbnails": ["Maxi9", "Maxi9"],
+      "points": [
+        "Simple and subtle prints",
+        "Great choice for daily office wear"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Blouse pieces inside"
+    },
+    {
+      "id": 55,
+      "title": "Ethnic Combo Sarees - 2 Pack",
+      "subtitle": "Saree Combo Offer",
+      "price": 2599,
+      "oldPrice": 3099,
+      "save": "Save 16%",
+      "thumbnails": ["Maxi10", "Maxi10"],
+      "points": [
+        "Ethnic motifs & warm colors",
+        "Combo of 2 festive-ready sarees"
+      ],
+      "delivery": "Jul 13 – Jul 17",
+      "status": "Unstitched",
+      "customizeNote": "Includes 2 matching blouses"
+    }
+  ]
+  
+}
